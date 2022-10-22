@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Immanuel123456
-- 👀 I’m interested in 
+- 👀 I’m interested in web project
 - 🌱 I’m currently learning ui ux and html
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me achulikeimmanuel@gmail.com
